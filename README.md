@@ -8,9 +8,11 @@
 </p>
 <p>I am a Masters in Bioinformatics Student currently studying at Universidade do Minho, Braga.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=areias03&label=Profile%20views&color=0e75b6&style=flat" alt="areias03" /> </p>
-
-<ul>
+<p align="center"> <a> <img align="center" src="https://komarev.com/ghpvc/?username=areias03&label=Profile%20views&color=0e75b6&style=flat" alt="areias03" /></a>
+<a href="https://areias03.github.io/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=flat&up_message=online&url=https%3A%2F%2Fareias03.github.io%2F1999AZZAR%2F" 
+     alt="website" /></a> </p>
+<ul> 
   <li>👋 Hi, I’m @areias03</li>
   <li>❤️ I love Proteomics, Genomics, Metabolomics and Python development.</li>
   <li>🌱 I’m currently working on my thesis regarding the study of the effects of transition metals on pathogen silencing/promotion of gut microbiota.</li>
