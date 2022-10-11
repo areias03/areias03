@@ -15,7 +15,7 @@
   <li>❤️ I love Proteomics, Genomics, Metabolomics and Python development.</li>
   <li>🌱 I’m currently working on my thesis regarding the study of the effects of transition metals on pathogen silencing/promotion of gut microbiota.</li>
   <li>💼 I'm a Bioinformatics Student at Universidade do Minho, while also working as an Application Security Research Intern at Checkmarx.</li>
-  <li>📫 How to reach me **alexandreareias1718@gmail.com**</li>
+  <li>📫 How to reach me: <a href="alexandreareias1718@gmail.com">e-mail</a>'s</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
