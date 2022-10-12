@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/areias03">Alexandre Castro</a>'s Profile 👋</h1>
