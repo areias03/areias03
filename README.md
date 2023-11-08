@@ -1,10 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/areias03">Alexandre Castro</a>'s Profile 👋</h1>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=04B431&size=25&lines=Welcome+to+my+GitHub+Profile!;" /></a>
+  <h1 align="center">Welcome to my profile!</h1>
 </p>
 <p>I am a Masters in Bioinformatics Student currently studying at Universidade do Minho, Braga.</p>
 
