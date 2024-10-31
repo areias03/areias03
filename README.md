@@ -10,8 +10,8 @@
      src="https://img.shields.io/website?down_message=offline&style=flat&up_message=online&url=https%3A%2F%2Fareias03.github.io%2F" 
      alt="website" /></a> </p>
 <ul> 
-  <li>I'm a Bioinformatics Student at Universidade do Minho, Braga.</li>
-  <li>Am currently working on my thesis regarding the study of the effects of transition metals on pathogen silencing/promotion of gut microbiota.</li>
-  <li>Interested in the study of microbial communities with previous experience in antibody design and general Python development.</li>
-  <li>How to reach me: <b><a href = "mailto: alexandreareias1718@gmail.com">Email</a></b>, <b><a href = "https://linkedin.com/in/alexandre-castro-24b9b71b0">LinkedIn</a></b></li>
+  <li>I'm a PhD Student at the Centre for Microbiome Research at Queensland University of Technology in Brisbane, Australia.</li>
+  <li>Am currently working on my thesis regarding the development of methodologies for better community simulations of gut microbiota.</li>
+  <li>Interested in the study of microbial communities with previous experience in antibody design, machine learning, and professional experience in Application Security.</li>
+  <li>How to reach me: <b><a href = "mailto: alexandreareiascastro@gmail.com">Email</a></b>, <b><a href = "https://linkedin.com/in/alexandre-castro-24b9b71b0">LinkedIn</a></b></li>
 </ul>
