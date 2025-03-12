@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center">Hi, I’m Alexandre Castro</h1>
+  <h1 align="center">Alexandre Areias Castro</h1>
 </p>
 <h3 align="center">Bioinformatician | Computational Biologist | Microbiologist</h3>
 
